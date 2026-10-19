@@ -42,4 +42,10 @@ The frontend prototype is complete. Backend integration and intelligent wellness
 - Interactive analytics and visualizations
 
 ---
+<div align="center">
 
+### NUURAI
+
+*Understand yourself. Find your patterns. Grow mindfully.*
+
+**Designed & Developed by Anusha**
