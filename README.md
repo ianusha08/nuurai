@@ -20,3 +20,26 @@ NUURAI brings together mood tracking, journaling, and conversational AI to make 
 
 
 </div>
+
+## ✦ Built With
+
+- **Frontend:** React, JavaScript
+- **Styling:** CSS
+- **Development:** Vite
+
+## ✦ Development Status
+
+**Currently in Development**
+
+The frontend prototype is complete. Backend integration and intelligent wellness features are planned for upcoming iterations.
+
+## ✦ What's Next
+
+- Backend and database integration
+- Secure user authentication
+- Persistent mood and wellness history
+- Personalized AI-driven insights
+- Interactive analytics and visualizations
+
+---
+
