@@ -1,19 +1,14 @@
 # 🌿 NUURAI
-### Your wellbeing, in a little more focus.
 
-**NUURAI** is an AI-powered mental wellness platform designed to help individuals understand their emotional wellbeing through daily check-ins, personal reflections, and meaningful insights.
+### A mindful approach to understanding yourself.
 
-By bringing together mood tracking, journaling, wellness analytics, and conversational AI, NUURAI encourages users to become more aware of their emotional patterns and everyday habits.
-
-<p align="center">
-  <em>Understand your patterns. Reflect on your wellbeing. Grow at your own pace.</em>
-</p>
+An AI-powered mental wellness platform that brings together daily check-ins, personal journaling, and wellness insights to encourage greater emotional self-awareness.
 
 ---
 
-## ✦ Preview
+## Preview
 
-### 01. Home — A Space for Self-Reflection
+### 01. Home
 
 The landing experience introduces NUURAI's approach to mindful check-ins and personal wellbeing.
 
@@ -21,7 +16,7 @@ The landing experience introduces NUURAI's approach to mindful check-ins and per
   <img src="https://github.com/user-attachments/assets/8a7156d6-b428-4617-8894-61ce8ac90c22" width="100%" alt="NUURAI Home Page"/>
 </p>
 
-### 02. Dashboard — Your Daily Wellbeing at a Glance
+### 02. Dashboard
 
 A centralized overview of mood, energy, stress, sleep, and weekly wellness patterns.
 
@@ -29,7 +24,7 @@ A centralized overview of mood, energy, stress, sleep, and weekly wellness patte
   <img src="https://github.com/user-attachments/assets/f3e4f443-26bd-4396-97e4-94cfaddeb2b0" width="100%" alt="NUURAI Wellness Dashboard"/>
 </p>
 
-### 03. Recent Check-ins — Your Journey, Recorded
+### 03. Recent Check-ins
 
 A chronological view of previous check-ins, including mood entries, energy levels, stress scores, sleep duration, and personal reflections.
 
@@ -37,7 +32,7 @@ A chronological view of previous check-ins, including mood entries, energy level
   <img src="https://github.com/user-attachments/assets/b2df3b4d-ecba-4292-925d-28196c071b4a" width="100%" alt="NUURAI Recent Check-ins"/>
 </p>
 
-### 04. Insights — Discover Your Patterns
+### 04. Insights & Analytics
 
 Visualizes mood, energy, stress, and sleep trends to help users identify recurring patterns and understand their daily experiences.
 
@@ -45,7 +40,7 @@ Visualizes mood, energy, stress, and sleep trends to help users identify recurri
   <img src="https://github.com/user-attachments/assets/c11da899-8335-4627-9cc6-0ec08ddedc12" width="100%" alt="NUURAI Insights and Analytics"/>
 </p>
 
-### 05. AI Companion — A Space to Reflect
+### 05. AI Companion
 
 A conversational wellness companion designed to encourage personal reflection and help users explore their recent check-ins. Currently demonstrated through a local simulation prototype.
 
@@ -55,7 +50,7 @@ A conversational wellness companion designed to encourage personal reflection an
 
 ---
 
-## ✦ Core Features
+## Core Features
 
 | Feature | Description |
 |---|---|
@@ -70,7 +65,7 @@ A conversational wellness companion designed to encourage personal reflection an
 
 ---
 
-## ✦ System Architecture
+## System Architecture
 
 NUURAI currently follows a frontend-focused architecture built around React components and wellness data visualization.
 
@@ -98,11 +93,11 @@ flowchart TD
     N[Future AI Integration] -. Planned .-> G
 ```
 
-*Note: The architecture illustrates the current frontend experience and planned integration points. Backend and database connections are not represented as completed functionality.*
+*The architecture illustrates the current frontend experience and planned integration points. Backend and database connections are not represented as completed functionality.*
 
 ---
 
-## ✦ Technology Stack
+## Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -113,7 +108,7 @@ flowchart TD
 
 ---
 
-## ✦ Getting Started
+## Getting Started
 
 Follow these steps to run NUURAI locally.
 
@@ -145,15 +140,17 @@ Open the local URL displayed in your terminal to access the application.
 
 ---
 
-## ✦ Development Status
+## Development Status
 
-<kbd>Frontend Prototype Completed</kbd> <kbd>Backend Integration Planned</kbd>
+**Frontend Prototype Completed** · Backend Integration Planned
 
 NUURAI currently includes its core frontend experience, including the landing page, wellness dashboard, check-in interface, insights visualization, and a locally simulated conversational companion.
 
 Further development will focus on persistent data management, backend integration, and more personalized AI-powered functionality.
 
-## ✦ Roadmap
+---
+
+## Roadmap
 
 - [x] Landing page and responsive UI
 - [x] Wellness dashboard
@@ -169,7 +166,7 @@ Further development will focus on persistent data management, backend integratio
 
 ---
 
-## ✦ Disclaimer
+## Disclaimer
 
 NUURAI is designed to support personal reflection and emotional awareness. It is not a medical or clinical tool, does not provide diagnoses, and is not a substitute for professional mental healthcare.
 
@@ -177,10 +174,8 @@ NUURAI is designed to support personal reflection and emotional awareness. It is
 
 <div align="center">
 
-### NUURAI 🌿
-
-*Small reflections. Deeper understanding.*
-
 **Designed & Developed by Anusha**
+
+</div>
 
 </div>
