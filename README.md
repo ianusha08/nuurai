@@ -50,6 +50,6 @@ The frontend prototype is complete. Backend integration, persistent tracking, an
 
 *Small reflections. Deeper understanding.*
 
-Designed & Developed by **Anusha**
+Built by <3 
 
 </div>
