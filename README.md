@@ -1,51 +1,55 @@
-# NUURAI 🌿
-### A little more awareness. A little more you.
+ <div align="center">
 
-An AI-powered mental wellness platform that helps individuals understand their emotional wellbeing through mindful check-ins, personal reflections, and AI-driven insights.
+# 🌿 NUURAI
 
-NUURAI brings together mood tracking, journaling, and conversational AI to make self-awareness a more intentional part of everyday life.
+### Your wellbeing, in a little more focus.
 
----
+An AI-powered mental wellness companion that turns everyday check-ins and personal reflections into meaningful insights.
 
-## ✦ What It Offers
-
-| Feature | Description |
-|---|---|
-| Daily Check-ins | Capture your mood and daily wellbeing. |
-| Mood & Energy Tracking | Understand changes in emotional patterns and energy levels. |
-| Stress Monitoring | Keep track of stress levels over time. |
-| Weekly Insights | Discover patterns and reflect on personal progress. |
-| Journaling | Create space for thoughts and personal reflection. |
-| AI Wellness Companion | Interact with an AI-powered companion for wellness conversations. |
-
+*Track your moods · Understand your patterns · Reflect on yourself*
 
 </div>
 
-## ✦ Built With
+---
 
-- **Frontend:** React, JavaScript
-- **Styling:** CSS
-- **Development:** Vite
+## About
 
-## ✦ Development Status
+NUURAI is designed to make self-awareness a part of everyday life. Through mood tracking, journaling, and AI-powered conversations, it helps users explore their emotional wellbeing and recognize patterns in their daily lives.
 
-**Currently in Development**
+## What you can do
 
-The frontend prototype is complete. Backend integration and intelligent wellness features are planned for upcoming iterations.
+- **01 / Check in** — Capture your mood and daily wellbeing.
+- **02 / Track** — Monitor energy levels and stress over time.
+- **03 / Reflect** — Journal your thoughts and personal experiences.
+- **04 / Discover** — Explore weekly patterns and wellness insights.
+- **05 / Connect** — Interact with an AI-powered wellness companion.
 
-## ✦ What's Next
+## Technology
 
-- Backend and database integration
-- Secure user authentication
-- Persistent mood and wellness history
-- Personalized AI-driven insights
-- Interactive analytics and visualizations
+`React` `JavaScript` `CSS` `Vite`
+
+## Project Status
+
+**In Development**
+
+The frontend prototype is complete. Backend integration, persistent tracking, and personalized AI insights are planned for future development.
+
+## Roadmap
+
+- [ ] Backend and database integration
+- [ ] User authentication
+- [ ] Persistent wellness history
+- [ ] Personalized AI insights
+- [ ] Interactive analytics
 
 ---
+
 <div align="center">
 
-### NUURAI
+**NUURAI 🌿**
 
-*Understand yourself. Find your patterns. Grow mindfully.*
+*Small reflections. Deeper understanding.*
 
-**Designed & Developed by Anusha**
+Designed & Developed by **Anusha**
+
+</div>
